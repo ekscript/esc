@@ -1,8 +1,8 @@
 # EkScript compiler
 
-## dev branch
+## stage branch
 
-Where the contributions happen. This is where pull requests and all the commits are recorded.
+Stage branch is the final branch before releasing a new build.
 
 ## Further
 
